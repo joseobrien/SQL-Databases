@@ -1,2 +1,2 @@
-# SQL-Databases
-UCM Master in Big Data &amp; Data Science | SQL Databases
+# UCM Data Science
+UCM Master in Big Data &amp; Data Science 
